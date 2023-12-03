@@ -44,4 +44,17 @@ Menu:
 
 Info:
 
-![during assembly](./Pictures/info.HEIC)
+![during assembly](./Pictures/info.jpg)
+
+Quiz:
+
+![during assembly](./Pictures/quizz.jpg)
+
+
+RunBobRun:
+
+![during assembly](./Pictures/rbn.jpg)
+
+
+
+Michał Błotniak
