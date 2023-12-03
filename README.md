@@ -48,7 +48,7 @@ Info:
 
 Quiz:
 
-![during assembly](./Pictures/quizz.jpg)
+![during assembly](./Pictures/quiz.jpg)
 
 
 RunBobRun:
