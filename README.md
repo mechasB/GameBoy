@@ -21,4 +21,27 @@ The heart of the console is Arduino Nano, the brain of which is ATMega 328. It c
 
 ## 5. Photos of the heart and device operation
 
+During assembly:
+
 ![during assembly](./Pictures/inwork.jpg)
+
+
+Heart GameBoy:
+
+
+![during assembly](./Pictures/heart.jpg)
+
+
+Start display:
+
+![during assembly](./Pictures/start.jpg)
+
+
+Menu:
+
+![during assembly](./Pictures/menu.jpg)
+
+
+Info:
+
+![during assembly](./Pictures/info.HEIC)
